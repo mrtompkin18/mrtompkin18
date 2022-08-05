@@ -1,4 +1,4 @@
 ## 😃 Talk to me about!!
 
-- `Front-end development using` **React, Next.js**
-- `Backend development using` **Java (Spring Boot), Node.js, Go**
+- **Front-end development using** `React`, `Next.js`, `Javascript`
+- **Backend development using** `Java`, `Node.js`, `Go`, `Spring Boot`**
